@@ -16,5 +16,7 @@ public class bearGrr extends Actor
     {
         // Add your action code here.
         move(5);
+        setLocation(100, 50);
+        
     }
 }
